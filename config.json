@@ -1,0 +1,23 @@
+{
+    "enable_logging": true,
+    "default_audio_language": "Japanese",
+    "model_paths": {
+        "English": "models/vosk-model-small-en-us-0.15",
+        "Chinese": "models/vosk-model-small-cn-0.22",
+        "Japanese": "models/vosk-model-small-ja-0.22"
+    },
+    "sample_rate": 16000,
+    "buffer_size": 16000,
+    "chunk_size": 3200,
+    "partial_result_interval": 5,
+    "ui_fonts": [
+        "Segoe UI",
+        15
+    ],
+    "textbox_font": [
+        "メイリオ",
+        14
+    ],
+    "textbox_width": 700,
+    "textbox_height": 60
+}
