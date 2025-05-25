@@ -2,7 +2,7 @@
 
 A simple Python app for live captioning system audio using offline models.
 
-For the poor souls without access to a Windows 11 PC.
+Developed for the poor souls who aren't able to upgrade to Windows 11 🙋‍♂️
 
 ## Setup
 
