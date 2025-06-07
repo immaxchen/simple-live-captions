@@ -48,7 +48,7 @@ class SimpleLiveCaptionsApp(ctk.CTk):
         window_height = self.winfo_reqheight()
 
         x = (screen_width - window_width) // 2
-        y = screen_height - window_height - 100  # 100px from bottom
+        y = screen_height - window_height - 75  # px from bottom
 
         self.geometry(f"{window_width}x{window_height}+{x}+{y}")
 

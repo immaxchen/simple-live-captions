@@ -29,8 +29,8 @@ Developed for the poor souls who aren't able to upgrade to Windows 11 🙋‍♂
 
    ```bash
    mkdir models
-   wget https://alphacephei.com/vosk/models/vosk-model-small-ja-0.22.zip
-   unzip vosk-model-small-ja-0.22.zip -d models/
+   wget https://alphacephei.com/vosk/models/vosk-model-ja-0.22.zip
+   unzip vosk-model-ja-0.22.zip -d models/
    ```
 
 ## Usage
